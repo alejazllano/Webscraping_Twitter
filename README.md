@@ -1,2 +1,2 @@
 # Webscraping_Twitter
-Python Project - Analyzing Twitter data from Consumer Goods companies in the US.
+The goal of this project was to analize twitter data from Consumer Goods companies in the US. The tweets are analyzed regarding the sentiment using Natural Language Processing.
